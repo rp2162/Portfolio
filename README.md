@@ -1,2 +1,2 @@
 # Portfolio 
-This is a portfolio website made for educational purpose.
+This is a portfolio website made for Educational purpose.
